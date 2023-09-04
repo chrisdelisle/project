@@ -1,0 +1,25 @@
+
+
++-------------+
+|  STATS   |
++-------------+
+| Rooms Cleared: 0 | Keys: 0 | Anger Level: 0
++-------------+
+| INVENTORY   |
++-------------+
+| Gold        | 13
+| Ingredients | 5 kg
+| Cookware    | P: 1 | F: 1 | C: 1
+| Weapons     | C: 0 | S: 0 | R: 5 | B: 0  | L: 0
+| Armor       | 3
+| Treasures   | R: 0 | N: 0 | B: 0 | C: 0 | G: 0
++-------------+
+| PARTY       |
++-------------+
+| chris | Fullness: 51
+| delisle | Fullness: 51
+| mas\on | Fullness: 51
+| wyatt | Fullness: 51
+| andrew | Fullness: 51
++-------------+
+
